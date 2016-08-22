@@ -47,3 +47,9 @@ to deal with unit tests and automated deployment.
 
 
 **Please note: MangoDB should be started and running before you check your final output.**
+
+#Related Books:
+
+[Node.js Blueprints] (https://www.packtpub.com/web-development/nodejs-blueprints?utm_source=Github&utm_medium=repository&utm_campaign=9781783287338)
+
+[RESTful Web API Design with Node.js - Second Edition] (https://www.packtpub.com/web-development/restful-web-api-design-nodejs-second-edition?utm_source=Github&utm_medium=repository&utm_campaign=9781786469137)
