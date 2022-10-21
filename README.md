@@ -53,3 +53,7 @@ to deal with unit tests and automated deployment.
 [Node.js Blueprints] (https://www.packtpub.com/web-development/nodejs-blueprints?utm_source=Github&utm_medium=repository&utm_campaign=9781783287338)
 
 [RESTful Web API Design with Node.js - Second Edition] (https://www.packtpub.com/web-development/restful-web-api-design-nodejs-second-edition?utm_source=Github&utm_medium=repository&utm_campaign=9781786469137)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to download a free PDF copy of this book.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781785888434">https://packt.link/free-ebook/9781785888434 </a> </p>
